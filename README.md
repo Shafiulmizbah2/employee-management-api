@@ -20,4 +20,5 @@
 
 ###### DB_PASSWORD =
 
+#### Now start server 
 ###### yarn start
